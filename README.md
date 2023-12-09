@@ -4,7 +4,8 @@
 
 ## Descrição
 
-Projeto com cadastro e login de usuários, que autenticados, podem criar uma lista de tecnologias, e selecionar editando o nível atual de conhecimento em cada tecnologia.
+Este é um projeto desenvolvido durante o módulo 6 da Kenzie Academy para construção de um portfólio pessoal. O objetivo é apresentar informações sobre mim, minhas experiências, projetos desenvolvidos, e informações de contato.
+
 
 
 ### Deploy
