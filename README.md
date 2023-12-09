@@ -8,7 +8,7 @@ Projeto com cadastro e login de usuários, que autenticados, podem criar uma lis
 
 
 ### Deploy
-Aplicação em produção: []()
+Aplicação em produção: [https://m6-tech2.vercel.app](https://m6-tech2.vercel.app)
 
 
 ## Tecnologias Utilizadas
